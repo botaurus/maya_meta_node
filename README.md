@@ -1,10 +1,10 @@
 # Maya Meta Node
-inspired by the red9 meta node
+Inspired by the red9 meta node
 http://red9-consultancy.blogspot.com/
 and notes from here
 https://sites.google.com/site/mayariggingwiki/rigging-notes/modular-rigging/building-a-metadata-node-network
 
-this has not been used much, its just an initial pass. The red9 package has a more mature meta node. However, for my purposes, I found I had to do some ugly work arounds when using it.
+This has not been used much, its just an initial pass. The red9 package has a more mature meta node. However, for my purposes, I found I had to do some ugly work arounds when using it.
 # Usage
 
 ```
