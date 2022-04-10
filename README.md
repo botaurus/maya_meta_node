@@ -4,7 +4,7 @@ http://red9-consultancy.blogspot.com/
 and notes from here
 https://sites.google.com/site/mayariggingwiki/rigging-notes/modular-rigging/building-a-metadata-node-network
 
-This has not been used much, its just an initial pass. The red9 package has a more mature meta node. However, for my purposes, I found I had to do some ugly work arounds when using it.
+This has not been used much, its just an initial pass. The red9 package has a more mature meta node - but I found I had to do some ugly work arounds when using it so I built this.
 # Usage
 
 ```
